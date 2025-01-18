@@ -1,2 +1,2 @@
-## Hola 👋
-Soy Sofía, **Licenciada en Biotecnología**, egresada de la Facultad de Bioquímica y Ciencias Biológicas, UNL.
+## Welcome 👋👩‍💻
+Hi! I'm Sofía, a biotechnologist and PhD student from Argentina.
